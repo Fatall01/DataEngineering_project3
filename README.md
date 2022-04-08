@@ -6,8 +6,7 @@ After spending 7 weeks exploring SQL and Python, diving into dataFrames, and pla
 
 Wait, but who is Gans?
 According to my data science instructor, Gans is a startup developing an e-scooter-sharing system, which aspires to operate in the most populous cities all around the world. In each city, there will be hundreds of e-scooters parked in the streets and allows users to rent them by the minute.
-What Gans specifically want is to anticipate as much as possible scooter movements. Predictive modeling is certainly on the roadmap, but the first step is to collect more data.
-Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be collecting different external data and creating an automated pipeline in the cloud. Here are the steps I followed in order to reach their goal:
+What Gans specifically want is to anticipate as much as possible scooter movements. The challenge is going to be collecting different external data and creating an automated pipeline in the cloud. Here are the steps I followed in order to reach their goal:
 
 -	Collect data from external sources
 -	Store the data in a local database (MySQL)
