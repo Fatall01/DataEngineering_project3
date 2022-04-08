@@ -1,7 +1,7 @@
 # DataEngineering_project3
 How did I go from investigating microbial life in oil pipelines to creating my own data engineering pipeline?
 
-As a microbiologist, I used to work alone in my molecular lab, extracting DNA from different microorganisms from oil pipelines and making stories out of it. However, over the years I ended up producing a massive amount of data… panic total. But I enrolled in a data science Bootcamp with WBS Coding School in order to efficiently analyze my data.
+As a microbiologist, I used to work alone in my molecular lab, extracting DNA from different microorganisms from oil pipelines and making stories out of it. However, over the years I ended up producing a massive amount of data. I didn't know how to deal with them. Thus, I enrolled in a data science Bootcamp with WBS Coding School in order to efficiently analyze my data.
 After spending 7 weeks exploring SQL and Python, diving into dataFrames, and playing with Pandas, I was assigned with the challenging task to help Gans predict their e-scooter movement.
 
 Wait, but who is Gans it?
