@@ -18,7 +18,7 @@ Since data is needed every day, in real-time and accessible by everyone in the c
 Collecting data is the first step of my data engineering plan. To do that, the internet is a great source for all required data and here is my data collection approach:
 - Collect flights data, RapidAPI (AeroDataBox’s endpoints) were used to access and collect data about flight arrivals to an airport with their ICAO codes.
 - API calls to collect free weather data from OpenWeather. Here I used Pyowm library, which is Python wrapper to write requests to the API.
-- Web scraping population data of cities where Gans were active for a better targeting strategy? I used python and Beautiful Soup, which enabled me to download and extract the entire HTML codes from the cities of interest and then find the data.
+- Web scraping population data of cities where Gans was active. I used python and Beautiful Soup, which enabled me to download and extract the entire HTML codes from the cities of interest and then find the data.
  
 2.	Data storage in a local database (MySQL)
 SQLAlchemy (the simplest way) to connect Python to any SQL was used here. After installing it with pip install SQLAlchemy and importing it into the notebook, then define the details to connect to your database. Finally, the method pandas.DataFrame.to_sql() will do the rest by converting a DataFrame into a MySQL table in a single step.
