@@ -10,9 +10,9 @@ What Gans specifically want is to anticipate as much as possible scooter movemen
 Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be collecting different external data and creating an automated pipeline in the cloud. Here are the steps I followed in order to reach their goal:
 
 -	Collect data from external sources
--	store the data in a local database (MySQL)
--	Move pipeline to the cloud (AWS)
--	Automating all the above-mentioned steps
+-	Store the data in a local database (MySQL)
+-	Move the database to the cloud (AWS)
+-	Automate all the above-mentioned steps
  
 1.	Data collection
 Collecting data is the first step of my data engineering plan. To do that, the internet is a great source for all required data and here is my data collection approach:
