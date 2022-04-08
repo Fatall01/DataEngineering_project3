@@ -4,7 +4,7 @@ How did I go from investigating microbial life in oil pipelines to creating my o
 As a microbiologist, I used to work alone in my molecular lab, extracting DNA from different microorganisms from oil pipelines and making stories out of it. However, over the years I ended up producing a massive amount of data. I didn't know how to deal with them. Thus, I enrolled in a data science Bootcamp with WBS Coding School in order to efficiently analyze my data.
 After spending 7 weeks exploring SQL and Python, diving into dataFrames, and playing with Pandas, I was assigned with the challenging task to help Gans predict their e-scooter movement.
 
-Wait, but who is Gans it?
+Wait, but who is Gans?
 According to my data science instructor, Gans is a startup developing an e-scooter-sharing system, which aspires to operate in the most populous cities all around the world. In each city, there will be hundreds of e-scooters parked in the streets and allows users to rent them by the minute.
 What Gans specifically want is to anticipate as much as possible scooter movements. Predictive modeling is certainly on the roadmap, but the first step is to collect more data.
 Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be collecting different external data and creating an automated pipeline in the cloud. Here are the steps I followed in order to reach their goal:
