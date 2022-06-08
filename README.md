@@ -29,5 +29,4 @@ Amazon RDS is a managed relational database service that provides you with sever
 
 4.	Automating all the above-mentioned steps:
  the goal here is to schedule a Lambda function that collects data about tomorrow’s weather and flight arrivals on a daily basis. Now that the Lambda function is already created, I just used the AWS’s EventBridge to easily create event triggers that automate the Lamdba functions using Cron expressions.
- ![image](https://user-images.githubusercontent.com/97614389/172565635-403adfc4-e816-41b1-97eb-85334190ab3c.png)
 
