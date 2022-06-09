@@ -1,4 +1,4 @@
-### Data Engineering Project
+# Data Engineering Project
 
 ## How did I go from investigating microbial life in oil pipelines to creating my own data engineering pipeline?
 
