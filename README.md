@@ -30,5 +30,5 @@ To fill my cloud database with my gathered data I used IAM, RDS and Lambda servi
 Amazon RDS is a managed relational database service that provides you with several familiar database engines to choose from, including MySQL. So basically, I created a database in AWS’s cloud that was able to connect MySQL Workbench through the Lambda function. To give the lambda functions access to the RDS service, I first needed to create a new Role in the AWS Identity and Access Management (IAM).
 
 ## 4.	Automating all the above-mentioned steps
- the goal here is to schedule a Lambda function that collects data about tomorrow’s weather and flight arrivals on a daily basis. Now that the Lambda function is already created, I just used the AWS’s EventBridge to easily create event triggers that automate the Lamdba functions using Cron expressions.
+The goal here is to schedule a Lambda function that collects data about tomorrow’s weather and flight arrivals on a daily basis. Now that the Lambda function is already created, I just used the AWS’s EventBridge to easily create event triggers that automate the Lamdba functions using Cron expressions.
 
